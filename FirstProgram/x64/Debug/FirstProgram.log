@@ -1,0 +1,4 @@
+﻿  FirstProgram.cpp
+C:\Users\deste\source\repos\FirstProgram\FirstProgram\FirstProgram.cpp(13,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\deste\source\repos\FirstProgram\FirstProgram\FirstProgram.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  FirstProgram.vcxproj -> C:\Users\deste\source\repos\FirstProgram\x64\Debug\FirstProgram.exe
